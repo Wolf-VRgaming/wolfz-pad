@@ -1,2 +1,2 @@
 # wolfz-pad
-this is a gorilla tag mod menu my me.
+this is a gorilla tag mod menu by Wolf-VRgaming
